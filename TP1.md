@@ -9,11 +9,11 @@ J’ai découvert lors de ce cours la commande **git squash** qui fusionne plusi
 
 ## Partie 2 - Mise en pratique
 
-![Niveau obligatoire](Capture d’écran 2022-11-29 172334.png)
+![Niveau obligatoire](1.png)
 
 **Niveaux bonus :**
 
-![Bonus](Capture d’écran 2022-11-29 172353.png)
+![Bonus](2.png)
 
 ## Author
 
