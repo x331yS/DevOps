@@ -21,4 +21,4 @@ J’ai découvert lors de ce cours la commande **git squash** qui fusionne plusi
 
 ## Link
 
-- https://github.com/x33lyS/DevOps/blob/main/TP1.md
+- https://github.com/x33lyS/DevOps
