@@ -54,8 +54,11 @@
 
 6. Builder une image
    - a. A l’aide d’un Dockerfile, créer une image (commande docker build)
+   ![img_6.png](img_6.png)
    - b. Exécuter cette nouvelle image de manière à servir la page html (commande
    docker run)
+   ![img_7.png](img_7.png)
+   ![img_8.png](img_8.png)
    - c. Quelles différences observez-vous entre les procédures 3. et 4. ? Avantages
    et inconvénients de l’une et de l’autre méthode ? (Mettre en relation ce qui est
    observé avec ce qui a été présenté pendant le cours)
