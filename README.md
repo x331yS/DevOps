@@ -40,7 +40,10 @@
 ![img_1.png](img_1.png)
 
    c. Créer un fichier index.html simple
+   [index.html](index.html)
+
    d. Démarrer un conteneur et servir la page html créée précédemment à l’aide
    d’un volume (option -v de docker run)
+
    e. Supprimer le conteneur précédent et arriver au même résultat que
    précédemment à l’aide de la commande docker cp
