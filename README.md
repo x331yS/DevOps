@@ -35,8 +35,10 @@
 5. Exécuter un serveur web (apache, nginx, …) dans un conteneur docker
    a. Récupérer l’image sur le Docker Hub
 ![img.png](img.png)
+
    b. Vérifier que cette image est présente en local
 ![img_1.png](img_1.png)
+
    c. Créer un fichier index.html simple
    d. Démarrer un conteneur et servir la page html créée précédemment à l’aide
    d’un volume (option -v de docker run)
