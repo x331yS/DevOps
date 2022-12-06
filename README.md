@@ -43,6 +43,11 @@
 
    d. Démarrer un conteneur et servir la page html créée précédemment à l’aide
    d’un volume (option -v de docker run)
+   ![img_3.png](img_3.png)
+   ![img_2.png](img_2.png)
 
    e. Supprimer le conteneur précédent et arriver au même résultat que
    précédemment à l’aide de la commande docker cp
+
+   ![img_4.png](img_4.png)
+   ![img_5.png](img_5.png)
