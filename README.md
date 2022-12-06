@@ -61,7 +61,7 @@
    docker run)
    ![img_7.png](img_7.png)
    ![img_8.png](img_8.png)
-   - c. Quelles différences observez-vous entre les procédures 3. et 4. ? Avantages
+   - c. Quelles différences observez-vous entre les procédures 5. et 6. ? Avantages
    et inconvénients de l’une et de l’autre méthode ? (Mettre en relation ce qui est
    observé avec ce qui a été présenté pendant le cours)
 8. Utiliser une base de données dans un conteneur docker
