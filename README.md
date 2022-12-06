@@ -39,8 +39,7 @@
    b. Vérifier que cette image est présente en local
 ![img_1.png](img_1.png)
 
-   c. Créer un fichier index.html simple
-   [index.html](index.html)
+   c. Créer un fichier index.html simple : [index.html](index.html)
 
    d. Démarrer un conteneur et servir la page html créée précédemment à l’aide
    d’un volume (option -v de docker run)
