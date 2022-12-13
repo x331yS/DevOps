@@ -73,12 +73,18 @@
    ![img_10.png](img_10.png)
    - b. Exécuter deux conteneurs à partir des images et ajouter une table ainsi que
    quelques enregistrements dans la base de données à l’aide de phpmyadmin
+    ![img_11.png](img_11.png)
+
 8. Faire la même chose que précédemment en utilisant un fichier
    docker-compose.yml
    - a. Qu’apporte le fichier docker-compose par rapport aux commandes docker run
    ? Pourquoi est-il intéressant ? (cf. ce qui a été présenté pendant le cours)
-   - b. Quel moyen permet de configurer (premier utilisateur, première base de
-   données, mot de passe root, …) facilement le conteneur mysql au lancement ?
+      
+Beaucoup plus rapide et une fois le fichier configurer il suffit juste de donner
+ce fichier aux autres utilisteurs pours qu'ils aient la même configuration.
+
+  - b. Quel moyen permet de configurer (premier utilisateur, première base de
+  données, mot de passe root, …) facilement le conteneur mysql au lancement ?
 9. Observation de l’isolation réseau entre 3 conteneurs
     - a. A l’aide de docker-compose et de l’image praqma/network-multitool
     disponible sur le Docker Hub créer 3 services (web, app et db) et 2 réseaux
