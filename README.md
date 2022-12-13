@@ -74,6 +74,12 @@
    - b. Exécuter deux conteneurs à partir des images et ajouter une table ainsi que
    quelques enregistrements dans la base de données à l’aide de phpmyadmin
     ![img_11.png](img_11.png)
+    ![image](https://user-images.githubusercontent.com/71019269/207382355-a0a9bcd3-fa04-4703-a434-327fca725949.png)
+    ![image](https://user-images.githubusercontent.com/71019269/207382466-b805df34-2e54-4781-a372-effe9af5acdf.png)
+    cette commande sert à lier le server mysql avec la base de donnée de phpmyadmin
+    ![image](https://user-images.githubusercontent.com/71019269/207382648-5e51190e-2d2c-45df-b2ee-829606cb998a.png)
+    
+
 
 8. Faire la même chose que précédemment en utilisant un fichier
    docker-compose.yml
