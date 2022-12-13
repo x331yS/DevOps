@@ -90,8 +90,7 @@
    - a. Qu’apporte le fichier docker-compose par rapport aux commandes docker run
    ? Pourquoi est-il intéressant ? (cf. ce qui a été présenté pendant le cours)
       
-Beaucoup plus rapide et une fois le fichier configurer il suffit juste de donner
-ce fichier aux autres utilisteurs pours qu'ils aient la même configuration.
+Beaucoup plus rapide et une fois le fichier est configurer il suffit de faire docker compose up pours que le tout se mette en route.
 
   - b. Quel moyen permet de configurer (premier utilisateur, première base de
   données, mot de passe root, …) facilement le conteneur mysql au lancement ?
