@@ -83,6 +83,10 @@
 
 8. Faire la même chose que précédemment en utilisant un fichier
    docker-compose.yml
+   ![image](https://user-images.githubusercontent.com/71019269/207388185-31e8f274-934a-4c27-8c83-c0360d857fdf.png)
+   ![image](https://user-images.githubusercontent.com/71019269/207388322-f885a25a-567a-4bc0-b2b6-92589a772a7e.png)
+
+
    - a. Qu’apporte le fichier docker-compose par rapport aux commandes docker run
    ? Pourquoi est-il intéressant ? (cf. ce qui a été présenté pendant le cours)
       
