@@ -94,6 +94,7 @@ Beaucoup plus rapide et une fois le fichier est configurer il suffit de faire do
 
   - b. Quel moyen permet de configurer (premier utilisateur, première base de
   données, mot de passe root, …) facilement le conteneur mysql au lancement ?
+  Le fichier docker-compose.yml
 9. Observation de l’isolation réseau entre 3 conteneurs
     - a. A l’aide de docker-compose et de l’image praqma/network-multitool
     disponible sur le Docker Hub créer 3 services (web, app et db) et 2 réseaux
