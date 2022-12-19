@@ -99,9 +99,10 @@ Beaucoup plus rapide et une fois le fichier est configurer il suffit de faire do
     - a. A l’aide de docker-compose et de l’image praqma/network-multitool
     disponible sur le Docker Hub créer 3 services (web, app et db) et 2 réseaux
     (frontend et backend).
-    Les services web et db ne devront pas pouvoir effectuer de ping de l’un vers
-    l’autre
+    Les services web et db ne devront pas pouvoir effectuer de ping de l’un vers l’autre
+    
     ![image](https://user-images.githubusercontent.com/71019269/207597517-a6364da0-1f01-4792-a79a-01d2f2170341.png)
+    
     ![image](https://user-images.githubusercontent.com/71019269/207597628-994da0f7-6eba-4199-8a61-c64b110854c1.png)
 
     - b. Quelles lignes du résultat de la commande docker inspect justifient ce
