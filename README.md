@@ -14,4 +14,5 @@ L'option est ```--production``` elle permet d'installer que les dépendances né
 ## Quelle bonne pratique Docker permet t-elle de respecter ?
 Cette bonne pratique permet d'alléger l'image et de la rendre plus maintenable et plus facile à déployer
 
-
+## A l’aide de la commande docker build, créer l’image ma_super_app
+```docker build -t ma_super_app .```
