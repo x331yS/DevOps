@@ -16,4 +16,5 @@ Cette bonne pratique permet d'alléger l'image et de la rendre plus maintenable 
 
 ## A l’aide de la commande docker build, créer l’image ma_super_app
 ```docker build -t ma_super_app .```
+
 ![image](https://user-images.githubusercontent.com/71019269/210178498-cbe081ab-450e-4cbc-84c7-1a667a0bd907.png)
