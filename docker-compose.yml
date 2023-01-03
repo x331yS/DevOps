@@ -1,18 +1,18 @@
 version: "3.9"
-  services:
-    node:
-      image: ma_super_app
-      environment:
-        - DATABASE_HOST=mysql
-        - DATABASE_USER=user
-        - DATABASE_PASSWORD=password
-        - DATABASE_NAME=mydatabase
-      depends_on:
-        - mysql
-    mysql:
-      image: mysql:5.7
-      environment:
-        MYSQL_ROOT_PASSWORD: password
-        MYSQL_USER: user
-        MYSQL_PASSWORD: password
-        MYSQL_DATABASE: mydatabase
+services:
+  node:
+    image: ma_super_app
+    environment:
+      - DATABASE_HOST=mysql
+      - DATABASE_USER=user
+      - DATABASE_PASSWORD=password
+      - DATABASE_NAME=mydatabase
+    depends_on:
+      - mysql
+  mysql:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+      MYSQL_DATABASE: mydatabase
