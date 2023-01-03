@@ -1,6 +1,8 @@
 version: "3.9"
 services:
   node:
+    ports:
+      - 8080:3000
     image: ma_super_app
     environment:
       - DATABASE_HOST=mysql
