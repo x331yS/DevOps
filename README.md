@@ -18,3 +18,7 @@ Cette bonne pratique permet d'alléger l'image et de la rendre plus maintenable 
 ```docker build -t ma_super_app .```
 
 ![image](https://user-images.githubusercontent.com/71019269/210178498-cbe081ab-450e-4cbc-84c7-1a667a0bd907.png)
+
+```docker compose up```
+
+![img.png](img.png)
