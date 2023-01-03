@@ -22,3 +22,5 @@ Cette bonne pratique permet d'alléger l'image et de la rendre plus maintenable 
 ```docker compose up```
 
 ![img.png](img.png)
+![image](https://user-images.githubusercontent.com/71019269/210367635-5ab00d12-50a7-47c9-952d-e6f348ec2984.png)
+
