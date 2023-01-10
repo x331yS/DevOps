@@ -11,8 +11,8 @@
 
 ### 4. Pousser votre code sur un nouveau repository Github et avec Github Actions créer un workflow permettant de lancer les tests unitaires de votre application.
 ![image](https://user-images.githubusercontent.com/71019269/211598723-11b16d26-a781-4203-996b-a6d5ac8be11e.png)   ![image](https://user-images.githubusercontent.com/71019269/211598820-b7526719-fa9b-45c2-958e-c5596d8e84a4.png)
-### 5. Créer la fonction soustraction et le test associé. Puis, pousser votre commit. Les tests sont effectués automatiquement via la pipeline.
 
+### 5. Créer la fonction soustraction et le test associé. Puis, pousser votre commit. Les tests sont effectués automatiquement via la pipeline.
 ![image](https://user-images.githubusercontent.com/71019269/211598899-3868246e-46c4-4058-845e-f5211c3cbff9.png)
 
 ### 6. Ajouter une étape de lint (validation statique et syntaxique de votre code source) dans votre workflow. Utiliser pylint.
