@@ -20,6 +20,7 @@ Bonnes pratiques :
 - Avoir un système de gestion de documentation pour chaque projet
 - Avoir un système de gestion de code pour chaque projet
 - Faire des backups réguliers
+
 Mauvaises pratiques :
 
 - Ne pas merge les branches de façon continue et se retrouver avec des conflits.
