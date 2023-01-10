@@ -12,9 +12,15 @@ Bonnes pratiques :
 - Avoir une liste de tâche à suivre (une roadmap) avec un système de monitoring
 - Avoir une documentation claire et précise pour chaque projet
 - Avoir une preprod testable avant une mise en production pour que les clients/dev 
-
+- Nom de commit clair et précis pour chaque commit 
+- Faire des commits réguliers
+- Avoir un système de versionning pour chaque projet
+- Avoir un système de gestion de projet pour chaque projet
+- Avoir un système de gestion de ticket pour chaque projet
+- Avoir un système de gestion de documentation pour chaque projet
+- Avoir un système de gestion de code pour chaque projet
+- Faire des backups réguliers
 Mauvaises pratiques :
 
 - Ne pas merge les branches de façon continue et se retrouver avec des conflits.
 - Absence de plan de secours et de reprise : L'absence de plan de secours et de reprise pour gérer les incidents peut entraîner des temps d'arrêt importants pour les utilisateurs.
-- 
