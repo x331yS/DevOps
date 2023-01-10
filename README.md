@@ -1,26 +1,20 @@
-# TP2
-## 2. Compléter le Dockerfile afin de builder correctement l’application contenu dans src/
-![image](https://user-images.githubusercontent.com/71019269/210178398-ed6e2433-52fe-49aa-95ea-40711257d763.png)
-![image](https://user-images.githubusercontent.com/71019269/210178410-5d247bb9-1d2f-42ab-a1ae-8dd960cff160.png)
+# Pratique Devops
 
+Bonnes pratiques :
 
+- Intégration continue (CI) : l'intégration régulière des modifications de code dans une branche commune pour détecter les erreurs plus rapidement.
+- Surveillance et suivi des performances : la surveillance en temps réel des performances de l'application pour détecter les problèmes potentiels.
+- Présence de tests automatisés : L'absence de tests automatisés pour valider les modifications de code peut entraîner des problèmes de qualité et des erreurs dans les déploiements.
+- Déploiements automatiques : Le déploiement manuel des modifications de code peut être source d'erreurs et prend beaucoup de temps.
+- Faire preuve de communication et de collaboration entre les membres du projet
+- Suvi de projet par tous les acteurs pour vérifier et contribuer à la mise en œuvre du projet final représentant exactement ce qui est attendu.
+- Avoir une base de données locale pour tester les modifications de code avant de les déployer en production.
+- Avoir une liste de tâche à suivre (une roadmap) avec un système de monitoring
+- Avoir une documentation claire et précise pour chaque projet
+- Avoir une preprod testable avant une mise en production pour que les clients/dev 
 
+Mauvaises pratiques :
 
-## a. Une option de npm vous permet de n’installer que ce qui est nécessaire.
-## Quelle est cette option ?
-L'option est ```--production``` elle permet d'installer que les dépendances nécessaire à la production de l'application
-
-
-## Quelle bonne pratique Docker permet t-elle de respecter ?
-Cette bonne pratique permet d'alléger l'image et de la rendre plus maintenable et plus facile à déployer
-
-## A l’aide de la commande docker build, créer l’image ma_super_app
-```docker build -t ma_super_app .```
-
-![image](https://user-images.githubusercontent.com/71019269/210178498-cbe081ab-450e-4cbc-84c7-1a667a0bd907.png)
-
-```docker compose up```
-
-![img.png](img.png)
-![image](https://user-images.githubusercontent.com/71019269/210367635-5ab00d12-50a7-47c9-952d-e6f348ec2984.png)
-
+- Ne pas merge les branches de façon continue et se retrouver avec des conflits.
+- Absence de plan de secours et de reprise : L'absence de plan de secours et de reprise pour gérer les incidents peut entraîner des temps d'arrêt importants pour les utilisateurs.
+- 
