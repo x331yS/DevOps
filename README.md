@@ -1,7 +1,7 @@
 # github-actions
 
 ### 1. Si vous n’en possédez pas déjà un, créez vous un compte Github et lié votre compte via clé SSH à votre ordinateur.
-![image](https://user-images.githubusercontent.com/71019269/211591764-2a225669-7aca-4c03-8b0d-7724ecb1ab03.png)
+![img.png](img.png)
 
 ### 2. Tester un premier workflow Github avec l’exemple suivant : https://docs.github.com/fr/actions/quickstart
 ![image](https://user-images.githubusercontent.com/71019269/211592002-ac5b2721-cc50-4edd-b089-cd2419bc5fcf.png)
