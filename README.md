@@ -1,4 +1,4 @@
-# github-actions
+# Github-actions
 
 ### 1. Si vous n’en possédez pas déjà un, créez vous un compte Github et lié votre compte via clé SSH à votre ordinateur.
 ![img.png](img.png)
